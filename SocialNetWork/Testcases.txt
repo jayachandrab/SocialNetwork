@@ -1,0 +1,40 @@
+Test Case 1:
+Enter Id: 19:
+
+Output for Direct Friends:
+
+Direct Friends of Catriona:
+Sandra,Katy,
+
+Output for Friends of Friends:
+Friends of Sandra:
+Peter,Amy,Catriona,Katy,
+
+Friends of Katy:
+Sarah,Sandra,Laura,Lisa,Daren,Dara,Catriona,
+user id
+
+Output for suggested friends:
+Suggested Friends for Catriona:
+Peter
+Amy
+Sarah
+Laura
+Lisa
+Daren
+Dara
+
+Test Case 2:
+Enter Id: 1:
+
+Direct Friddnds:
+Direct Friends of Paul:
+Rob,
+
+Friends of Friends:
+Friends of Rob:
+Paul,Ben,
+
+Suggested Friends:
+Suggested Friends for Paul:
+Ben
