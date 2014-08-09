@@ -8,7 +8,7 @@ import java.io.IOException;
 import org.json.simple.parser.ParseException;
 import org.junit.Test;
 
-import com.jsonread.SocialNetwork;
+import com.socialNetworkProject.SocialNetwork;
 
 public class SuggestedFriendsTest {
 
