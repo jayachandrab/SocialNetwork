@@ -36,7 +36,7 @@ class Person {
 		this.surName = surname;
 		this.personAge = age;
 		this.gender = gender;
-
+System.out.println("hello world");
 		// TODO Auto-generated constructor stub
 	}
 
